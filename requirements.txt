@@ -1,0 +1,5 @@
+requests
+python-dotenv
+tasepy
+sqlmodel
+psycopg2-binary
